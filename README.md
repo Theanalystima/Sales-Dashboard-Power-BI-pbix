@@ -20,5 +20,5 @@ Excel: Initial data cleaning and formatting
 <img width="1162" height="668" alt="Screenshot 2025-07-20 221114" src="https://github.com/user-attachments/assets/d0cc3043-dd17-403f-bbe8-c027615d1361" />
 
 🔗 Live Demo / Download
-Click here to download the .pbix file
+Click here to download the .pbix file https://github.com/emmanuelbende50/Sales-Dashboard-Power-BI-pbix/blob/main/Sales%20performance.pbix
 (Or upload to Google Drive and paste the link here
