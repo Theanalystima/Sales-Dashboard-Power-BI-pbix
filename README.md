@@ -1,11 +1,5 @@
-Sales Performance Dashboard – Power BI
-
 Project Overview
 This project showcases a Sales Performance Dashboard built using Microsoft Power BI to analyze and visualize key sales metrics. The dashboard provides stakeholders with a clear view of performance trends, product category insights, and sales distribution by customer demographics.
-
-Dataset
-Source: [Retail Sales CSV]
-Columns: Transaction ID, Date, Gender, Age Group, Product Category, Quantity, Price Per Unit, Total Amount
 
 Key Insights
 Monthly Sales Trends – Revealed seasonal performance peaks and dips.
